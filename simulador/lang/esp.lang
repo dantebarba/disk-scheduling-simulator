@@ -1,0 +1,40 @@
+submit#enviar
+cancel#cancelar
+exit#salir
+open#abrir
+orientation#orientacion
+close#cerrar
+accept#aceptar
+stepbystep#Paso a Paso
+pygamehandler_movement#Cantidad de movimientos
+simulatorinterface_open#Abrir
+simulatorinterface_save#Guardar
+simulatorinterface_saveas#Guardar como
+simulatorinterface_exit#Salir
+simulatorinterface_file#Archivo
+simulatorinterface_simulate#Simular
+simulatorinterface_stop#Parar
+simulatorinterface_speed#Velocidad
+simulatorinterface_newinput#Nueva Entrada
+simulatorinterface_simulator#Simulador
+simulatorinterface_reset#Reiniciar
+simulatorinterface_plot#Graficar
+simulatorinterface_plotter#Graficador
+simulatorinterface_setalgo#Establecer Algoritmo
+simulatorinterface_about#Acerca de
+simulatorinterface_exitop_askexit#Guardar y salir ?
+simulatorinterface_openop_openenv#Seleccione el ambiente a cargar
+simulatorinterface_changealgo#Seleccione algoritmo
+simulatorinterface_changespeed#Seleccione velocidad del simulador
+simulatorinterface_saveop#Guardar archivo como...
+simulatorinterface_inputmsg#Ingrese nueva entrada
+error_simulatorisactive#El Simulador esta activo, parelo primero
+error_simulatorisnotactive#El Simulador no esta activo, activelo primero
+error_simulatorisnotloaded#El Simulador esta vacio
+error_invalidinput#Formato de la entrada invalido
+error_emptyinput#La entrada esta vacia
+error_unexpected#Error inesperado
+error_ioerror#No se pudo leer/escribir el archivo, por favor verifique sus permisos de acceso
+error_simulatorloading#La operacion de carga fallo
+error_plotting#No se pudo Graficar
+error_import#Faltan dependencias, verifique que tenga todas las dependencias instaladas

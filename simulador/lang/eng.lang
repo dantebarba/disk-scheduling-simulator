@@ -1,0 +1,40 @@
+submit#submit
+exit#Exit
+cancel#cancel
+open#open
+orientation#orientation
+close#close
+accept#accept
+stepbystep#Step by Step
+pygamehandler_movement#Movement Quantity
+simulatorinterface_open#Open
+simulatorinterface_save#Save
+simulatorinterface_saveas#Save as
+simulatorinterface_exit#Exit
+simulatorinterface_file#File
+simulatorinterface_simulate#Simulate
+simulatorinterface_stop#Stop
+simulatorinterface_speed#Speed
+simulatorinterface_newinput#New input
+simulatorinterface_simulator#Simulator
+simulatorinterface_reset#Reset
+simulatorinterface_plot#Plot
+simulatorinterface_plotter#Plotter
+simulatorinterface_setalgo#Set Algorithm
+simulatorinterface_about#About
+simulatorinterface_exitop_askexit#Save and Quit?
+simulatorinterface_openop_openenv#Select environment to load
+simulatorinterface_changealgo#Select algorithm
+simulatorinterface_changespeed#Select simulator speed
+simulatorinterface_saveop#Save file as ...
+simulatorinterface_inputmsg#Insert new input
+error_simulatorisactive#Simulator is active, stop it first!
+error_simulatorisnotactive#Simulator is not active, activate it
+error_simulatorisnotloaded#Simulator is empty
+error_invalidinput#Invalid input
+error_emptyinput#Empty Input
+error_unexpected#Unexpected Error
+error_ioerror#Could not read/write file, please check your access permissions
+error_simulatorloading#Could not load file
+error_plotting#Plotting Error
+error_import#Dependencies are missing, please check that all the requiered dependencies are installed
